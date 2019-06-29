@@ -30,7 +30,7 @@
   
 * **网站地图**
 
-![网站地图](https://image.135editor.com/files/users/150/1501074/201906/e6QOnzpy_EzNE.jpg" data-ratio="1" alt="网站.jpg "网站地图")
+  ![网站地图](https://image.135editor.com/files/users/150/1501074/201906/e6QOnzpy_EzNE.jpg" data-ratio="1" alt="网站.jpg "网站地图")
   
   ### 图片的使用
   
