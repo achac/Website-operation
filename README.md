@@ -68,16 +68,16 @@
 
 * Animate it!
 
-1、在文章《FM.666 | 我们的大学白上了吗？》(http://xiexii.me/2019/06/30/think-2/)中使用了“fadein”特效
+1、在文章[《FM.666 | 我们的大学白上了吗？》](http://xiexii.me/2019/06/30/think-2/)中使用了“fadein”特效
 ![](https://image.135editor.com/files/users/150/1501074/201906/VxpUY9tg_BJwL.png)
 
-2、在文章《艺术哲思 | 探讨柏拉图的“真实”与“美”》(http://xiexii.me/2019/06/30/think/)中使用了“bounceIn”特效
+2、在文章[《艺术哲思 | 探讨柏拉图的“真实”与“美”》](http://xiexii.me/2019/06/30/think/)中使用了“bounceIn”特效
 ![](https://image.135editor.com/files/users/150/1501074/201906/xCZ4ONTW_bIVg.png)
 ![](https://image.135editor.com/files/users/150/1501074/201906/mnanVTpL_RmzX.png)
 
 * SiteOrigin
 
-1、文章《人物摄影集 冷》(http://xiexii.me/2019/06/30/renwu/)
+1、文章[《人物摄影集 冷》(http://xiexii.me/2019/06/30/renwu/)
 
 ![文章](https://image.135editor.com/files/users/150/1501074/201906/G3zm2X8p_FHP3.png)
 
