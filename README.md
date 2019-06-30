@@ -153,17 +153,78 @@
 ![baidu](https://image.135editor.com/files/users/150/1501074/201906/mWTPpnnJ_64Gd.png)
 
 #### SEO优化
+ 
+##### 尝试了在文章加关键词这一SEO优化方法
 
+![](https://image.135editor.com/files/users/150/1501074/201906/CB6jAKjx_VYVd.png)
+
+* 结论：虽添加了关键词但未给网站流量带来什么变化，搜索引擎也仍搜不到该文章
+
+![](https://image.135editor.com/files/users/150/1501074/201906/KY67PRGZ_emsM.png)
+
+###### 尝试了将文章url规范化，将原来的中文字符改为了文章主题的英文
+
+![](https://image.135editor.com/files/users/150/1501074/201906/OTrqgFY3_vLTE.png)
+
+* 结论:将url规范化后，网站流量有了一定程度的提高
+
+![](https://image.135editor.com/files/users/150/1501074/201906/NOnsphQ7_sLOJ.png)
 
 #### 用户访谈
 
-* 问题：1、对于该网站的感受 2、认为该网站哪里需要改进 3、最不喜欢改网站哪一个设计
-* 总结：
+* 问题：1、对于该网站的感受 2、认为该网站哪里需要改进 3、最不喜欢该网站哪一个设计
 
+* 总结：1、大多数人对于网站的第一印象都是版面比较空，留白较多；
+       2、访谈中用户对于简洁的配色比较喜欢，都比较认同简洁的风格
+       3、80%的人都认为网站标题字体偏小，不够突出网站主题
+       4、70%的用户认为文章页没有做标签分类显得文章整体较乱，需要进行一定调整
+       5、网站首页与文章页面区别不大，不易区分
 
+* 改进措施
+1、丰富网站整体内容，使版面不那么空
+2、将网站标题字体调大，突出网站主题
+3、在黑白配色的基础上丰富网站配色
+4、将文章进行分类目录处理
+5、将网站首页与文章页面区分开
 
+##### 改进前
+![](https://image.135editor.com/files/users/150/1501074/201906/TXzDHp5U_97HU.png)
 
+![](https://image.135editor.com/files/users/150/1501074/201906/bRHq2tNQ_kuzG.png)
 
+![](https://image.135editor.com/files/users/150/1501074/201906/67Y9C56e_DsCD.png)
+
+##### 改进后
+![](https://image.135editor.com/files/users/150/1501074/201906/It9EPRT2_8VJM.png)
+
+![](https://image.135editor.com/files/users/150/1501074/201906/JUzPv4Du_OaXf.png)
+
+![](https://image.135editor.com/files/users/150/1501074/201906/tRuPDMkp_QOZF.png)
+
+#### A/B测试
+
+* 方案A：网站文章配色为较明亮的绿色，标题字体为微软雅黑，文章内容字体为16
+
+![](https://image.135editor.com/files/users/150/1501074/201906/9vgv7mG9_f4cm.png)
+
+![](https://image.135editor.com/files/users/150/1501074/201906/HWtqgaJD_spwf.jpg)
+
+![](https://image.135editor.com/files/users/150/1501074/201906/vQOp68b3_CkSb.png)
+
+* 方案B：网站文章配色为饱和度较低的墨绿色，标题字体为'Playfair Display', serif，文章内容字体为18
+
+![](https://image.135editor.com/files/users/150/1501074/201906/9pM2feVF_fN4O.png)
+
+![](https://image.135editor.com/files/users/150/1501074/201906/FhYYNk8t_n3ue.png)
+
+![](https://image.135editor.com/files/users/150/1501074/201906/8C25R4fp_5TR3.png)
+
+* 总结
+1、体验A方案的用户都认为过于明亮的绿色与本网站的整体风格不是太搭
+2、体验B方案的用户认为墨绿色的配色让人感觉舒适，适合艺术类网站的整体风格
+3、文章字体较大的方案较受用户喜欢
+
+* 改进措施：网站整体使用B方案
 
 ### 定制化方案
 
