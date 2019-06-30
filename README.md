@@ -64,7 +64,7 @@
 ![首页](https://image.135editor.com/files/users/150/1501074/201906/4WrLwsVz_RDyR.png)
 ![文章](https://image.135editor.com/files/users/150/1501074/201906/TEwpKTfr_JCBZ.png)
 
-* **平面设计应用**
+**平面设计应用**
 
 * Animate it!
 
@@ -107,6 +107,7 @@
 
 * 本网站一共设置了8个监控地点，主要是设在了各洲大国的首都，国内设了广州与北京两个监控地点，主要是想对比各个洲的情况。
 * 从数据看来，在国内的情况比较不理想，尤其是广州，停机时间为最长的地区；国外仅有纽约听过一次机，其他国家尚未发现有停机情况出现。
+* 说明该网站在国内的情况还有待提高，还可做很多改进。
 
 ![国家](https://image.135editor.com/files/users/150/1501074/201906/y3UzW3Tk_NmLS.png)
 
@@ -118,7 +119,7 @@
 
 ![备份](https://image.135editor.com/files/users/150/1501074/201906/zCLdgxHq_SX4z.png)
 
-* Wordpress Database Backup
+* Wordpress Database Backup备份
 
 ![beifen](https://image.135editor.com/files/users/150/1501074/201906/bnsxysyc_36Qp.png)
 
@@ -128,7 +129,7 @@
 
 #### 站长工具
 
-* **bing站长认证**
+#### bing站长认证
 
 * 已完成认证并可在搜索引擎中搜索到。
 
@@ -154,7 +155,7 @@
 #### SEO优化
 
 
-* **用户访谈**
+#### 用户访谈
 
 * 问题：1、对于该网站的感受 2、认为该网站哪里需要改进 3、最不喜欢改网站哪一个设计
 * 总结：
